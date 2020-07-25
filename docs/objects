@@ -1,0 +1,15 @@
+{
+	"firstName": "ann",
+    "lastName": "doe",
+    "email": "ann@doe.com",
+    "password": "annpass2",
+    "age": 20
+}
+
+{
+	"name": "Niancynamide 10%",
+	"brand": "Deciem",
+	"description": "Niacinamide (Vitamin B3) is indicated to reduce the appearance of skin blemishes and congestion. A high 10% concentration of this vitamin is supported in the formula by zinc salt of pyrrolidone carboxylic acid to balance visible aspects of sebum activity.",
+	"type": "Molecules",
+	"photoLink": "https://theordinary.deciem.com/images/products/rdn-niacinamide-10pct-zinc-1pct-30ml.png?ver=18"
+}

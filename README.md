@@ -1,6 +1,5 @@
 # ReactJS-NodeJs-course-project
 
-
 Assignment 1	Project Summary
 Course	Fullstack Application Development with Node.js + Express.js + React.js - 2020
 
