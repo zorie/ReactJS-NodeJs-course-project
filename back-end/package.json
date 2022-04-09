@@ -13,7 +13,7 @@
     "express": "^4.17.1",
     "indicative": "^7.4.4",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.27",
     "mongoose": "^5.7.9",
     "nodemon": "^2.0.4",
