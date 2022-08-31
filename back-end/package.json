@@ -14,7 +14,7 @@
     "indicative": "^7.4.4",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.27",
+    "moment-timezone": "^0.5.35",
     "mongoose": "^5.7.9",
     "nodemon": "^2.0.4",
     "rimraf": "^3.0.2",
